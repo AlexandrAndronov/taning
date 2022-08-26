@@ -1,0 +1,8 @@
+-q -%i -w http://&#1093;&#1086;&#1095;&#1091;&#1079;&#1072;&#1075;&#1072;&#1088;.&#1088;&#1092; -O "/Users/aleksandr/websites/taning" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -r2 -%e2 -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* +*.mov +*.mpeg +*.mp4 -%s -%u
+File generated automatically on Fri, 26 Aug 2022 12:36:19, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
